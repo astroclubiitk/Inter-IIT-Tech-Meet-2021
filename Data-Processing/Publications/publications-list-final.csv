@@ -1,0 +1,89 @@
+,Unnamed: 0,Title,URL,Sources
+0,0,A machine learning approach for classification of accretion states of black hole binaries,https://ui.adsabs.harvard.edu/abs/2021MNRAS.502.1334S,"['IGR J17091-3624', 'MAXI J1535-571', 'GX 339-4', 'XTE J1859+226']"
+1,1,Ultraviolet Imaging Telescope (UVIT) observation of the Galactic globular cluster NGC 7492,https://ui.adsabs.harvard.edu/abs/2021MNRAS.502..313K,"['Gaia DR2', 'NGC 7492']"
+2,2,AstroSat view of IGR J17091-3624 and GRS 1915 + 105: decoding the 'pulse' in the 'Heartbeat State',https://ui.adsabs.harvard.edu/abs/2021MNRAS.501.6123K,"['IGR J17091-3624', 'GRS 1915+105']"
+3,3,Broad-band 'spectro-temporal' features of extragalactic black hole binaries LMC X-1 and LMC X-3: an AstroSat perspective,https://ui.adsabs.harvard.edu/abs/2021MNRAS.501.5457B,"['LMC X-3', 'LMC X-1']"
+4,4,Thermonuclear X-ray bursts detected in Cyg X-2 using AstroSat/LAXPC,https://ui.adsabs.harvard.edu/abs/2021NewA...8301479D,['Cyg X-2']
+5,5,UVIT-HST-Gaia-VISTA study of KRON 3 in the Small Magellanic Cloud: A cluster with an extended red clump in UV,https://ui.adsabs.harvard.edu/abs/2021MNRAS.tmp..441N,"['Kron 3', 'KRON 3']"
+6,6,Study of UV-bright stellar populations in the globular cluster NGC 1261 using Astrosat,https://ui.adsabs.harvard.edu/abs/2021MNRAS.501.2140R,['NGC 1261']
+7,7,The First Extensive Exploration of UV-bright Stars in the Globular Cluster NGC 2808,https://ui.adsabs.harvard.edu/abs/2021ApJ...908...66P,['NGC 2808']
+8,8,A Virgo Environmental Survey Tracing Ionised Gas Emission (VESTIGE). IX. The effects of ram pressure stripping down to the scale of individual HII regions in the dwarf galaxy IC 3476,https://ui.adsabs.harvard.edu/abs/2021A&A...646A.139B,['IC 3476']
+9,9,UOCS. III. UVIT catalogue of open clusters with machine learning based membership using Gaia EDR3 astrometry,https://ui.adsabs.harvard.edu/abs/2021MNRAS.tmp..246J,"['Gaia EDR3', 'King 2', 'NGC 2420', 'NGC 2477', 'NGC 6940', 'Berkeley 67', 'NGC 2682']"
+10,10,AstroSat soft X-ray observations of the symbiotic recurrent nova V3890 Sgr during its 2019 outburst,https://ui.adsabs.harvard.edu/abs/2021MNRAS.501...36S,[ 'V3890 Sgr']
+11,11,UV spectroscopy confirms SU Lyn to be a symbiotic star,https://ui.adsabs.harvard.edu/abs/2021MNRAS.500L..12K,['UV 1300-1800']
+12,12,A multiwavelength study of the dual nuclei in Mrk 212,https://ui.adsabs.harvard.edu/abs/2021MNRAS.500.3908R,['Mrk 212']
+13,13,Multiwavelength study of different flaring and low-activity states of blazar 4C+21.35,https://ui.adsabs.harvard.edu/abs/2021MNRAS.500.1127B,['4C+21.35']
+14,14,AstroSat observations of the first Galactic ULX pulsar Swift J0243.6+6124,https://ui.adsabs.harvard.edu/abs/2021MNRAS.500..565B,['Swift J0243.6+6124']
+15,15,Crust structure and thermal evolution of neutron stars in soft X-ray transients,https://ui.adsabs.harvard.edu/abs/2021A&A...645A.102P,['MXB 1659-29']
+16,16,AstroSat view of GRS 1915+105 during the soft state: detection of HFQPOs and estimation of mass and spin,https://ui.adsabs.harvard.edu/abs/2020MNRAS.499.5891S,['GRS 1915+105']
+17,17,Coronal vertical structure variations in normal branch of GX 17+2: AstroSat's SXT and LAXPC perspective,https://ui.adsabs.harvard.edu/abs/2020MNRAS.499.2214M,['GX 17+2']
+18,18,UVIT/AstroSat studies of blue straggler stars and post-mass transfer systems in star clusters: detection of one more blue lurker in M67,https://ui.adsabs.harvard.edu/abs/2020JApA...41...45S,"['M67', 'NGC 5466']"
+19,19,The horizontal branch morphology of the globular cluster NGC 1261 using AstroSat,https://ui.adsabs.harvard.edu/abs/2020JApA...41...35R,['NGC 1261']
+20,20,Observations with the 3.6-meter Devasthal optical telescope,https://ui.adsabs.harvard.edu/abs/2020JApA...41...33S,['Sh 2-61']
+21,21,A spectral study of the black hole X-ray binary MAXI J1820+070 with AstroSat and NuSTAR,https://ui.adsabs.harvard.edu/abs/2020MNRAS.498.5873C,['MAXI J1820+070']
+22,22,Revisiting the spectral and timing properties of 4U 1909+07 with NuSTAR and Astrosat,https://ui.adsabs.harvard.edu/abs/2020MNRAS.498.4830J,['4U 1909+07']
+23,23,Estimation of the black hole spin in LMC X-1 using AstroSat,https://ui.adsabs.harvard.edu/abs/2020MNRAS.498.4404M,[ 'LMC X-1']
+24,24,"Proxima Centauri - the nearest planet host observed simultaneously with AstroSat, Chandra, and HST",https://ui.adsabs.harvard.edu/abs/2020MNRAS.498.3658L,['M5']
+25,25,Identifying the radiative components responsible for quasi-periodic oscillations of black hole systems,https://ui.adsabs.harvard.edu/abs/2020MNRAS.498.2757G,['GRS 1915+105']
+26,26,AstroSat observation of the Be/X-ray binary Pulsar 3A 0726-260 (4U 0728-25),https://ui.adsabs.harvard.edu/abs/2020RAA....20..155R,"['4U 0728-25', '3A 0726-260']"
+27,27,AstroSat view of LMC X-2: evolution of broad-band X-ray spectral properties along a complete Z-track,https://ui.adsabs.harvard.edu/abs/2020MNRAS.497.3726A,['LMC X-2']
+28,28,AstroSat and MAXI view of the black hole binary 4U 1630-472 during 2016 and 2018 outbursts,https://ui.adsabs.harvard.edu/abs/2020MNRAS.497.1197B,['4U 1630-472']
+29,29,Time evolution of cyclotron line of Her X-1: a detailed statistical analysis including new AstroSat data,https://ui.adsabs.harvard.edu/abs/2020MNRAS.497.1029B,"['MJD 55400', 'Her X-1']"
+30,30,AstroSat UVIT Detections of Chandra X-Ray Sources in M31,https://ui.adsabs.harvard.edu/abs/2020ApJS..250...23L,['M31']
+31,31,An underlying clock in the extreme flip-flop state transitions of the black hole transient Swift J1658.2-4242,https://ui.adsabs.harvard.edu/abs/2020A&A...641A.101B,['Swift J1658.2-4242']
+32,32,Study of recent outburst in the Be/X-ray binary RX J0209.6-7427 with AstroSat: a new ultraluminous X-ray pulsar in the Magellanic Bridge?,https://ui.adsabs.harvard.edu/abs/2020MNRAS.495.2664C,['RX J0209.6-7427']
+33,33,AstroSat Observations of GRO J2058+42 during the 2019 Outburst,https://ui.adsabs.harvard.edu/abs/2020ApJ...897...73M,['GRO J2058+42']
+34,34,Blazar Variability: A Study of Nonstationarity and the Flux-Rms Relation,https://ui.adsabs.harvard.edu/abs/2020ApJ...897...25B,"['3C 273', 'PKS 2155-304', 'Mrk 421']"
+35,35,Detection of thermonuclear X-ray bursts and dips from the X-ray binary 4U 1323-62 with AstroSat/LAXPC,https://ui.adsabs.harvard.edu/abs/2020RAA....20...98B,['4U 1323-62']
+36,36,"Isolation, nucleotide sequencing and genomic comparison of a Novel SXT/R391 ICE mobile genetic element isolated from a municipal wastewater environment",https://ui.adsabs.harvard.edu/abs/2020NatSR..10.8716S,[]
+37,37,Spectropolarimetric analysis of prompt emission of GRB 160325A: jet with evolving environment of internal shocks,https://ui.adsabs.harvard.edu/abs/2020MNRAS.493.5218S,['GRB 160325']
+38,38,Possible detection of a new cyclotron feature in 4U 1700-37,https://ui.adsabs.harvard.edu/abs/2020MNRAS.493.3045B,['4U 1700-37']
+39,39,AstroSat UVIT Survey of M31: Point-source Catalog,https://ui.adsabs.harvard.edu/abs/2020ApJS..247...47L,['M31']
+40,40,Additional Calibration of the Ultraviolet Imaging Telescope on Board AstroSat,https://ui.adsabs.harvard.edu/abs/2020AJ....159..158T,[]
+41,41,A broad-band look of the accreting millisecond X-ray pulsar SAX J1748.9-2021 using AstroSat and XMM-Newton,https://ui.adsabs.harvard.edu/abs/2020MNRAS.492.4361S,"['NGC 6440', 'SAX J1748.9-2021']"
+42,42,Correction to: AstroSat/LAXPC view of GX 17+2: spectral evolution along the Z-track,https://ui.adsabs.harvard.edu/abs/2020Ap&SS.365...56A,['GX 17+2']
+43,43,Unravelling the unusually curved X-ray spectrum of RGB J0710 + 591 using AstroSat observations,https://ui.adsabs.harvard.edu/abs/2020MNRAS.492..796G,['RGB J0710+591']
+44,44,Identification of QPO Frequency of GRS 1915+105 as the Relativistic Dynamic Frequency of a Truncated Accretion Disk,https://ui.adsabs.harvard.edu/abs/2020ApJ...889L..36M,['GRS 1915+105']
+45,45,AstroSat UVIT Observations of Her X-1,https://ui.adsabs.harvard.edu/abs/2020ApJ...889..131L,['Her X-1']
+46,46,AstroSat/LAXPC view of GX 17+2: spectral evolution along the Z-track,https://ui.adsabs.harvard.edu/abs/2020Ap&SS.365...41A,['GX 17+2']
+47,47,AstroSat detection of Lyman continuum emission from a z = 1.42 galaxy,https://ui.adsabs.harvard.edu/abs/2020NatAs...4.1185S,['AUDFs01']
+48,48,Unveiling the Temporal Properties of MAXI J1820+070 through AstroSat Observations,https://ui.adsabs.harvard.edu/abs/2020ApJ...889L..17M,"['Cygnus X-1', 'MAXI J1820+070']"
+49,49,Prompt X-Ray Emission from Fast Radio Bursts—Upper Limits with AstroSat,https://ui.adsabs.harvard.edu/abs/2020ApJ...888...40A,[]
+50,50,"Solar Cycle Variation of Coronal Temperature, Emission Measure, and Soft X-Ray Irradiance Observed with Yohkoh Soft X-Ray Telescope",https://ui.adsabs.harvard.edu/abs/2019ApJ...887..225T,[]
+51,51,GASP XXIII: A Jellyfish Galaxy as an Astrophysical Laboratory of the Baryonic Cycle,https://ui.adsabs.harvard.edu/abs/2019ApJ...887..155P,['JW100']
+52,52,Spectral and Timing Properties of the Galactic X-Ray Transient Swift J1658.2-4242 Using Astrosat Observations,https://ui.adsabs.harvard.edu/abs/2019ApJ...887..101J,['Swift J1658.2-4242']
+53,53,"Timing analysis of Swift J1658.2-4242's outburst in 2018 with Insight-HXMT, NICER and AstroSat",https://ui.adsabs.harvard.edu/abs/2019JHEAp..24...30X,"[ 'MAXI J1659-152', 'Swift J1658.2-4242']"
+54,54,UVIT Open Cluster Study. II. Detection of Extremely Low Mass White Dwarfs and Post-Mass Transfer Binaries in M67,https://ui.adsabs.harvard.edu/abs/2019ApJ...886...13J,"['WOCS3001', 'WOCS2002', 'WOCS2007', 'M67', 'Gaia DR2', 'WOCS6006']"
+55,55,"Journey through the birth, growth and maturity of X-ray astronomy",https://ui.adsabs.harvard.edu/abs/2019RAA....19..138A,"['Cyg X-1', 'GRS 1915+105', 'HEAO A-2', 'Sco X-1', 'HEAO-1']"
+56,56,A variable-frequency HFQPO in GRS 1915+105 as observed with AstroSat,https://ui.adsabs.harvard.edu/abs/2019MNRAS.489.1037B,['GRS 1915+105']
+57,57,DustKING - the story continues: dust attenuation in NGC628,https://ui.adsabs.harvard.edu/abs/2019BSRSL..88..307D,"['NGC628', 'NGC 628']"
+58,58,Three years of AstroSat: Indian Astronomy mission,https://ui.adsabs.harvard.edu/abs/2019BSRSL..88..190V,[]
+59,59,Short-term variabilities in X-ray/Optical/UV emission from Seyfert 1 galaxy NGC 4593,https://ui.adsabs.harvard.edu/abs/2019BSRSL..88..143N,"['Seyfert 1', 'NGC 4593', 'Fairall 9', 'NGC 5548']"
+60,60,On the requirement for a high resolution spectrograph to investigate the multiplicity of massive stars with the 3.6-m Devasthal Optical Telescope,https://ui.adsabs.harvard.edu/abs/2019BSRSL..88..128D,[]
+61,61,Prompt Emission Polarimetry of Gamma-Ray Bursts with the AstroSat CZT Imager,https://ui.adsabs.harvard.edu/abs/2019ApJ...884..123C,"['GRB 151006A', 'GRB 160106A', 'GRB 160131A', 'GRB 160325A', 'GRB 160509A', 'GRB 160607A', 'GRB 160623A', 'GRB 160703A']"
+62,62,Spectro-timing analysis of MAXI J1535-571 using AstroSat,https://ui.adsabs.harvard.edu/abs/2019MNRAS.488..720B,['MAXI J1535-571']
+63,63,Activity of the Red Dwarf FR Cnc from Observations with a Robotic IRT-20 Telescope at the Zvenigorod Observatory of INASAN,https://ui.adsabs.harvard.edu/abs/2019AstL...45..602S,"['HJD 2458556.5', 'HJD 2458545.2']"
+64,64,Time-varying Polarized Gamma-Rays from GRB 160821A: Evidence for Ordered Magnetic Fields,https://ui.adsabs.harvard.edu/abs/2019ApJ...882L..10S,['GRB 160821A']
+65,65,UVIT Open Cluster Study. I. Detection of a White Dwarf Companion to a Blue Straggler in M67: Evidence of Formation through Mass Transfer,https://ui.adsabs.harvard.edu/abs/2019ApJ...882...43S,"['WOCS1007', 'M67', 'WOCS2011', 'WOCS1006']"
+66,66,Thermal evolution and quiescent emission of transiently accreting neutron stars,https://ui.adsabs.harvard.edu/abs/2019A&A...629A..88P,"['4U 2129+47', 'SAX J1808.4−3658', '4U 1608−522']"
+67,67,AstroSat observation of GX 5-1: spectral and timing evolution,https://ui.adsabs.harvard.edu/abs/2019RAA....19..114B,['GX 5-1']
+68,68,Broad-band reflection spectroscopy of MAXI J1535-571 using AstroSat: estimation of black hole mass and spin,https://ui.adsabs.harvard.edu/abs/2019MNRAS.487.4221S,['MAXI J1535-571']
+69,69,AstroSat view of MAXI J1535-571: broad-band spectro-temporal features,https://ui.adsabs.harvard.edu/abs/2019MNRAS.487..928S,['MAXI J1535-571']
+70,70,Pulse Phase Variation of the Cyclotron Line in HMXB 4U 1907+09 with AstroSat LAXPC,https://ui.adsabs.harvard.edu/abs/2019ApJ...880...61V,"['4U 1907+09', 'HMXB 4U 1907']"
+71,71,Soft x-ray tomographic reconstruction of Heliotron J plasma for the study of magnetohydrodynamic equilibrium and stability,https://ui.adsabs.harvard.edu/abs/2019PlST...21f5102P,[]
+72,72,Microlensing of x-ray pulsars: A method to detect primordial black hole dark matter,https://ui.adsabs.harvard.edu/abs/2019PhRvD..99l3019B,"['SMC X-1', 'PBH as 100']"
+73,73,A stochastic propagation model to the energy dependent rapid temporal behaviour of Cygnus X-1 as observed by AstroSat in the hard state,https://ui.adsabs.harvard.edu/abs/2019MNRAS.486.2964M,['Cygnus X-1']
+74,74,ICE SXT vs. ICESh95: Co-existence of Integrative and Conjugative Elements and Competition for a New Host,https://ui.adsabs.harvard.edu/abs/2019NatSR...9.8045P,"['ICESh95', 'ICESh392']"
+75,75,Systemic inflammation is associated with malaria and preterm birth in women living with HIV on antiretrovirals and co-trimoxazole,https://ui.adsabs.harvard.edu/abs/2019NatSR...9.6758M,[]
+76,76,Investigation of the globular cluster NGC 2808 with the Ultra-Violet Imaging Telescope,https://ui.adsabs.harvard.edu/abs/2019MNRAS.485.2877J,['NGC 2808']
+77,77,Detection of a White Dwarf Companion to a Blue Straggler Star in the Outskirts of Globular Cluster NGC 5466 with the Ultraviolet Imaging Telescope (UVIT),https://ui.adsabs.harvard.edu/abs/2019ApJ...876...34S,"['NH 84', 'NGC 5466', 'BSS NH 84', 'GAIA DR2', 'NGC 5466']"
+78,78,Antimicrobial agent susceptibilities of Legionella pneumophila MLVA-8 genotypes,https://ui.adsabs.harvard.edu/abs/2019NatSR...9.6138S,"['Gt15', 'MLVA-8']"
+79,79,Probing the Cyclotron line characteristics of 4U 1538-522 using AstroSat-LAXPC,https://ui.adsabs.harvard.edu/abs/2019MNRAS.484L...1V,['4U 1538-522']
+80,80,AstroSat-CZTI Detection of Variable Prompt Emission Polarization in GRB 171010A,https://ui.adsabs.harvard.edu/abs/2019ApJ...874...70C,['GRB 171010']
+81,81,Thermonuclear X-ray bursts in rapid succession in 4U 1636-536 with AstroSat-LAXPC,https://ui.adsabs.harvard.edu/abs/2019MNRAS.482.4397B,['4U 1636-536']
+82,82,LAXPC/AstroSat Study of ∼1 and ∼2 mHz Quasi-periodic Oscillations in the Be/X-Ray Binary 4U 0115+63 during Its 2015 Outburst,https://ui.adsabs.harvard.edu/abs/2019ApJ...872...33R,['4U 0115+63']
+83,83,The Period Change of Cyg X-3,https://ui.adsabs.harvard.edu/abs/2019ApJ...871..244A,['Cyg X-3']
+84,84,AstroSat SXT Observations of Her X-1,https://ui.adsabs.harvard.edu/abs/2019ApJ...871..152L,['Her X-1']
+85,85,Multi-Wavelength Observations of a Large Solar Flare,https://ui.adsabs.harvard.edu/abs/2019OAP....32..114C,"['NOAA 9087', 'M6']"
+86,86,UVIT-HST-GAIA view of NGC 288: a census of the hot stellar population and its properties from UV,https://ui.adsabs.harvard.edu/abs/2019MNRAS.482.1080S,"['GAIA DR2', 'NGC 288']"
+87,87,Study of Timing Evolution from Nonvariable to Structured Large-amplitude Variability Transition in GRS 1915 + 105 Using AstroSat,https://ui.adsabs.harvard.edu/abs/2019ApJ...870....4R,['GRS 1915+105']
